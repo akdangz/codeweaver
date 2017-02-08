@@ -1,0 +1,23 @@
+{
+  "name": "codeweaver",
+  "version": "1.0.0",
+  "description": "module based web app design tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akdangz/codeweaver/"
+  },
+  "keywords": [
+    "electron",
+    "web",
+    "design"
+  ],
+  "author": "akdangz@gmail.com",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "electron": "^1.4.15"
+  }
+}
